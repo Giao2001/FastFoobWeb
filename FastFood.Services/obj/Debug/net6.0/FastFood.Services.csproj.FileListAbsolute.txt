@@ -1,0 +1,11 @@
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\bin\Debug\net6.0\FastFood.Services.deps.json
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\bin\Debug\net6.0\FastFood.Services.dll
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\bin\Debug\net6.0\FastFood.Services.pdb
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\obj\Debug\net6.0\FastFood.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\obj\Debug\net6.0\FastFood.Services.AssemblyInfoInputs.cache
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\obj\Debug\net6.0\FastFood.Services.AssemblyInfo.cs
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\obj\Debug\net6.0\FastFood.Services.csproj.CoreCompileInputs.cache
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\obj\Debug\net6.0\FastFood.Services.dll
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\obj\Debug\net6.0\refint\FastFood.Services.dll
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\obj\Debug\net6.0\FastFood.Services.pdb
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Services\obj\Debug\net6.0\ref\FastFood.Services.dll

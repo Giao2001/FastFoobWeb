@@ -1,0 +1,15 @@
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\bin\Debug\net6.0\FastFood.Repository.deps.json
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\bin\Debug\net6.0\FastFood.Repository.dll
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\bin\Debug\net6.0\FastFood.Repository.pdb
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\bin\Debug\net6.0\FastFood.Models.dll
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\bin\Debug\net6.0\FastFood.Models.pdb
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.csproj.AssemblyReference.cache
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.AssemblyInfoInputs.cache
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.AssemblyInfo.cs
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.csproj.CoreCompileInputs.cache
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.csproj.CopyComplete
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.dll
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\obj\Debug\net6.0\refint\FastFood.Repository.dll
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.pdb
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Repository\obj\Debug\net6.0\ref\FastFood.Repository.dll

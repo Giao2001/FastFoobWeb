@@ -1,0 +1,12 @@
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\bin\Debug\net6.0\FastFood.Models.deps.json
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\bin\Debug\net6.0\FastFood.Models.dll
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\bin\Debug\net6.0\FastFood.Models.pdb
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\obj\Debug\net6.0\FastFood.Models.csproj.AssemblyReference.cache
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\obj\Debug\net6.0\FastFood.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\obj\Debug\net6.0\FastFood.Models.AssemblyInfoInputs.cache
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\obj\Debug\net6.0\FastFood.Models.AssemblyInfo.cs
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\obj\Debug\net6.0\FastFood.Models.csproj.CoreCompileInputs.cache
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\obj\Debug\net6.0\FastFood.Models.dll
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\obj\Debug\net6.0\refint\FastFood.Models.dll
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\obj\Debug\net6.0\FastFood.Models.pdb
+E:\LapTrinh\C# Project\ASP.NET\FastFood.Models\obj\Debug\net6.0\ref\FastFood.Models.dll
